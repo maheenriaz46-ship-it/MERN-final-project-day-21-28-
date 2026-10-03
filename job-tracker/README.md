@@ -13,3 +13,7 @@ Edit `server/.env` (copy of `.env.example`) for your MONGO_URI and JWT_SECRET.
 ## Structure
 - server/  Express API (models, routes, middleware)
 - client/  React (Vite) app (pages, components, context)
+
+## Live Demo
+- Frontend: https://mern-final-project-day-21-28-phiq.vercel.app
+- Backend API: https://mern-final-project-day-21-28.vercel.app
